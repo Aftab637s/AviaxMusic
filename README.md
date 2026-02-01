@@ -1,7 +1,7 @@
 <h1 align="center">🎵 Manvi Music Bot 🎵</h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/29808c1fd50add3b1bfc6.jpg" alt="manvi Music Logo" width="600" height="150">
+  <img src="https://i.ibb.co/KRzzgRY/upload.jpg" alt="manvi Music Logo" width="600" height="150">
 </p>
 
 <p align="center">
